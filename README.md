@@ -3,7 +3,7 @@
 Deskripsi singkat: apa yang dilakukan proyek ini dan target penggunanya.
 
 ## Mulai cepat
-1. Clone: `git clone https://github.com/<owner>/<repo>.git`
+1. Clone: `git clone https://github.com/fabiansaifudin/warkopapp.git`
 2. Instal: (contoh) `npm install`
 3. Jalankan: `npm start`
 
